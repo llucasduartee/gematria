@@ -1,0 +1,73 @@
+button {
+    background-color: #990000;
+    color: #fff;
+    width: 100%;
+    height: 30px;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 20px;
+
+}
+
+.babalon {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 64px;
+}
+
+.babalon-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input {
+    height: 25px;
+    border-radius: 6px;
+    width: 100%;
+}
+
+textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {   
+    border-color: rgba(153, 0, 0, 0.8);
+    box-shadow: 0 1px 1px rgba(229, 103, 23, 0.075) inset, 0 0 8px rgba(153, 0, 0, 0.6);
+    outline: 0 none;
+}
+
+input[type="text"]
+{
+    font-size:14px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.result h4 {
+    color:#990000;
+    margin-bottom: 8px;
+    font-size: 36px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.result p {
+    color:#990000;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.tarot {
+    margin-bottom: 64px;
+}
+
+@media (max-width: 768px) {
+    .babalon {}
+}

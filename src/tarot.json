@@ -1,0 +1,107 @@
+{
+  "1": {
+    "name": "Atu I - O Prestidigitador",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/01_Major_Magician.jpg",
+    "path_kaballah": "Kether - Chokmah"
+  },
+  "2": {
+    "name": "Atu II - A Sacerdotisa",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/02_Major_Priestess.jpg",
+    "path_kaballah": "Kether - Binah"
+  },
+  "3": {
+    "name": "Atu III - A Imperatriz",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/03_Major_Empress.jpg",
+    "path_kaballah": "Kether - Tipharet"
+  },
+  "4": {
+    "name": "Atu IV - O Imperador",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/04_Major_Emperor.jpg",
+    "path_kaballah": "Chokmah - Binah"
+  },
+  "5": {
+    "name": "Atu V - O Hierofante",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/05_Major_Hierophant.jpg",
+    "path_kaballah": "Chokmah - Tipharet"
+  },
+  "6": {
+    "name": "Atu VI - Os Amantes",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/06_Major_Lovers.jpg",
+    "path_kaballah": "Chokmah - Chesed"
+  },
+  "7": {
+    "name": "Atu VII - A Carruagem",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/07_Major_Chariot.jpg",
+    "path_kaballah": "Binah - Tipharet"
+  },
+  "8": {
+    "name": "Atu VIII - O Ajustamento",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/08_Major_Justice.jpg",
+    "path_kaballah": "Binah - Geburah"
+  },
+  "9": {
+    "name": "Atu IX - O Eremita",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/09_Major_Hermit.jpg",
+    "path_kaballah": "Chesed - Geburah"
+  },
+  "10": {
+    "name": "Atu X - Fortuna",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/10_Major_Fortune.jpg",
+    "path_kaballah": "Chesed - Tipharet"
+  },
+  "11": {
+    "name": "Atu XI - Luxúria",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/11_Major_Lust.jpg",
+    "path_kaballah": "Chesed - Netzach"
+  },
+  "12": {
+    "name": "Atu XII - O Enforcado",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/12_Major_Hanged.jpg",
+    "path_kaballah": "Geburah - Tipharet"
+  },
+  "13": {
+    "name": "Atu XIII - Morte",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/13_Major_Death.jpg",
+    "path_kaballah": "Geburah - Hod"
+  },
+  "14": {
+    "name": "Atu XIV - Arte",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/14_Major_Art.jpg",
+    "path_kaballah": "Tipharet - Netzach"
+  },
+  "15": {
+    "name": "Atu XV - O Diabo",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/15_Major_Devil.jpg",
+    "path_kaballah": "Tipharet - Yesod"
+  },
+  "16": {
+    "name": "Atu XVI - A Torre",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/16_Major_Tower.jpg",
+    "path_kaballah": "Tipharet - Hod"
+  },
+  "17": {
+    "name": "Atu XVII - A Estrela",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/17_Major_Star.jpg",
+    "path_kaballah": "Netzach - Hod"
+  },
+  "18": {
+    "name": "Atu XVIII - A Lua",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/18_Major_Moon.jpg",
+    "path_kaballah": "Netzach - Yesod"
+  },
+  "19": {
+    "name": "Atu XIX - O Sol",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/19_Major_Sun.jpg",
+    "path_kaballah": "Netzach - Malkuth"
+  },
+  "20": {
+    "name": "Atu XX - O Æon",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/20_Major_Aeon.jpg",
+    "path_kaballah": "Hod - Yesod"
+  },
+  "21": {
+    "name": "Atu XXI - O Universo",
+    "src": "https://www.serpentesecreta.org/v2/img/tarot-thot/21_Major_World.jpg",
+    "path_kaballah": "Hod - Malkuth"
+  }
+}
