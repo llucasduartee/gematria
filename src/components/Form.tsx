@@ -3,6 +3,7 @@ import TarotData from "../tarot.json";
 import GematricData from "../gematricValue.json";
 import "../styles/Form.css";
 import Babalon from "../assets/babalon.png";
+import Footer from "./Footer";
 
 const Form = () => {
   const [getName, setGetName] = useState("");
