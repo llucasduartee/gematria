@@ -68,6 +68,8 @@ input[type="text"]
     margin-bottom: 64px;
 }
 
+
 @media (max-width: 768px) {
-    .babalon {}
+    .babalon {margin-top: 256px;}
 }
+
